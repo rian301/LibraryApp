@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Node
+library-spa/node_modules/
+library-spa/dist/
+
+# Outros
+.env
+*.log
